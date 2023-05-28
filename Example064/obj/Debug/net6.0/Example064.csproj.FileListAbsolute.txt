@@ -1,0 +1,15 @@
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\bin\Debug\net6.0\Example064.exe
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\bin\Debug\net6.0\Example064.deps.json
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\bin\Debug\net6.0\Example064.runtimeconfig.json
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\bin\Debug\net6.0\Example064.dll
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\bin\Debug\net6.0\Example064.pdb
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.csproj.AssemblyReference.cache
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.AssemblyInfoInputs.cache
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.AssemblyInfo.cs
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.csproj.CoreCompileInputs.cache
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.dll
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\refint\Example064.dll
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.pdb
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\Example064.genruntimeconfig.cache
+C:\Users\Iam6a\OneDrive\Рабочий стол\Учебный Материал\seminar 9 homework\Example064\obj\Debug\net6.0\ref\Example064.dll
